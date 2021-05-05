@@ -1,0 +1,24 @@
+# Fichiers à ignorer
+
+*.txt
+*.pptx
+*.pdf
+
+/Carte Master/Listings/*
+/Carte Master/Objects/*
+
+/Carte Slave/Listings/*
+/Carte Slave/Objects/*
+
+*.uvgu.kylia
+*.uvopt
+
+*.lst
+*.m51
+*.kylia
+*.obj
+*.htm
+
+
+
+
